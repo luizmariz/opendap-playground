@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+maps_region_ERA5/
+maps_region_GHRSST/
+
 # Distribution / packaging
 .Python
 build/
